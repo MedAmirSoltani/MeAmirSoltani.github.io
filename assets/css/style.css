@@ -323,6 +323,9 @@ header .navbar ul li a:hover {
 }
 /* social icons end */
 
+
+
+
 /* hero media queries starts*/
 @media (max-width: 450px) {
   .home .btn {
@@ -332,7 +335,7 @@ header .navbar ul li a:hover {
     margin-top: 12rem;
   }
   .home .image img {
-    margin-top: -12rem;
+    margin-left: 20px;
   }
   .home .content p {
     font-size: 2.2rem;
@@ -342,7 +345,13 @@ header .navbar ul li a:hover {
   }
 }
 /* hero media queries ends*/
-/* hero section end */
+
+
+
+
+
+
+
 
 /* about section starts */
 .about {
