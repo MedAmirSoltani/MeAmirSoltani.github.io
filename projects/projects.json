@@ -14,7 +14,7 @@
     "image": "cyber",
     "category": "Artificial Intelligence",
     "links": {
-      "code": "https://github.com/jigar-sable/anomaly-detection"
+      "code": "https://github.com/MedAmirSoltani/kDD-Anomaly-Detection"
     }
   },
   {
@@ -23,7 +23,7 @@
     "image": "churn",
     "category": "Artificial Intelligence",
     "links": {
-      "code": "https://github.com/jigar-sable/churn-detection"
+      "code": "https://github.com/MedAmirSoltani/churn-detection"
     }
   },
   {
@@ -32,7 +32,7 @@
     "image": "bash",
     "category": "Development",
     "links": {
-      "code": "https://github.com/jigar-sable/rename-shell-script"
+      "code": "https://github.com/MedAmirSoltani/Scripting"
     }
   },
   {
@@ -41,7 +41,7 @@
     "image": "test",
     "category": "Development",
     "links": {
-      "code": "https://github.com/jigar-sable/artmart"
+      "code": "https://github.com/MedAmirSoltani/ArtMart"
     }
   },
   {
@@ -50,7 +50,7 @@
     "image": "hogwart",
     "category": "Development",
     "links": {
-      "code": "https://github.com/jigar-sable/hogwart-university"
+      "code": "https://github.com/MedAmirSoltani/Web"
     }
   },
   {
@@ -59,7 +59,7 @@
     "image": "nextech",
     "category": "Development",
     "links": {
-      "code": "https://github.com/jigar-sable/nextech"
+      "code": "https://github.com/MedAmirSoltani/smart_tech_store_2A11"
     }
   },
   {
@@ -68,7 +68,7 @@
     "image": "vene",
     "category": "Development",
     "links": {
-      "code": "https://github.com/jigar-sable/veneficus"
+      "code": "#"
     }
   },
   {
@@ -77,7 +77,7 @@
     "image": "trading",
     "category": "Artificial Intelligence",
     "links": {
-      "code": "https://github.com/jigar-sable/trading-agent"
+      "code": "https://github.com/MedAmirSoltani/trading-agent"
     }
   }
 ]
