@@ -1,17 +1,9 @@
 [
-  {
-    "name": "Intelligent Trading Agent",
-    "desc": "Portfolio optimization on the Tunisian stock market, combining deep learning and quantitative methods. Deployed with Django and Dash/Plotly. Integrated sentiment analysis to assess market sentiment and improve prediction models. Created Power BI dashboards for comprehensive data visualization.",
-    "image": "trading_agent",
-    "category": "Artificial Intelligence",
-    "links": {
-      "code": "https://github.com/jigar-sable/trading-agent"
-    }
-  },
+
   {
     "name": "Apple Stock Prediction",
     "desc": "Used the SARIMA model in R to analyze Apple's stock price data and predict its future trend.",
-    "image": "apple_stock",
+    "image": "apple",
     "category": "Artificial Intelligence",
     "links": {
       "code": "https://github.com/jigar-sable/apple-stock"
@@ -20,7 +12,7 @@
   {
     "name": "Anomaly Detection",
     "desc": "Designed and trained an advanced machine learning model to detect security incidents, followed by its integration with Flask.",
-    "image": "anomaly_detection",
+    "image": "cyber",
     "category": "Artificial Intelligence",
     "links": {
       "code": "https://github.com/jigar-sable/anomaly-detection"
@@ -29,7 +21,7 @@
   {
     "name": "Churn Detection",
     "desc": "Developed a machine learning model to detect customer churn, helping businesses identify and retain at-risk customers. Utilized advanced feature engineering techniques and various classification algorithms.",
-    "image": "churn_detection",
+    "image": "churn",
     "category": "Artificial Intelligence",
     "links": {
       "code": "https://github.com/jigar-sable/churn-detection"
@@ -47,7 +39,7 @@
   {
     "name": "Hogwart University",
     "desc": "Hogwart University is an online learning platform that helps students studying during the pandemic.",
-    "image": "hogwart_university",
+    "image": "hogwart",
     "category": "Development",
     "links": {
       "code": "https://github.com/jigar-sable/hogwart-university"
@@ -65,7 +57,7 @@
   {
     "name": "Rename Shell Script",
     "desc": "A bash script I created to rename and manage files in Linux.",
-    "image": "rename_shell_script",
+    "image": "bash",
     "category": "Development",
     "links": {
       "code": "https://github.com/jigar-sable/rename-shell-script"
@@ -74,10 +66,19 @@
   {
     "name": "Veneficus",
     "desc": "Veneficus is a 2D game developed using C and the SDL library under Linux/Ubuntu.",
-    "image": "veneficus",
+    "image": "vene",
     "category": "Development",
     "links": {
       "code": "https://github.com/jigar-sable/veneficus"
+    }
+  },
+  {
+    "name": "Intelligent Trading Agent",
+    "desc": "Portfolio optimization on the Tunisian stock market, combining deep learning and quantitative methods. Deployed with Django and Dash/Plotly. Integrated sentiment analysis to assess market sentiment and improve prediction models. Created Power BI dashboards for comprehensive data visualization.",
+    "image": "trading",
+    "category": "Artificial Intelligence",
+    "links": {
+      "code": "https://github.com/jigar-sable/trading-agent"
     }
   }
 ]
