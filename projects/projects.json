@@ -28,6 +28,15 @@
     }
   },
   {
+    "name": "Rename Shell Script",
+    "desc": "A bash script I created to rename and manage files in Linux.",
+    "image": "bash",
+    "category": "Development",
+    "links": {
+      "code": "https://github.com/jigar-sable/rename-shell-script"
+    }
+  },
+  {
     "name": "ArtMart",
     "desc": "ArtMart is a comprehensive platform available on desktop, web, and mobile devices. It consists of a Symfony and Java-based mobile web application designed for purchasing artwork and submitting artistic projects.",
     "image": "test",
@@ -54,15 +63,7 @@
       "code": "https://github.com/jigar-sable/nextech"
     }
   },
-  {
-    "name": "Rename Shell Script",
-    "desc": "A bash script I created to rename and manage files in Linux.",
-    "image": "bash",
-    "category": "Development",
-    "links": {
-      "code": "https://github.com/jigar-sable/rename-shell-script"
-    }
-  },
+
   {
     "name": "Veneficus",
     "desc": "Veneficus is a 2D game developed using C and the SDL library under Linux/Ubuntu.",
