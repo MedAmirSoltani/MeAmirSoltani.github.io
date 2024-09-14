@@ -30,7 +30,7 @@
   {
     "name": "ArtMart",
     "desc": "ArtMart is a comprehensive platform available on desktop, web, and mobile devices. It consists of a Symfony and Java-based mobile web application designed for purchasing artwork and submitting artistic projects.",
-    "image": "artmart",
+    "image": "test",
     "category": "Development",
     "links": {
       "code": "https://github.com/jigar-sable/artmart"
